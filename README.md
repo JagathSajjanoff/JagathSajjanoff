@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JagathSajjanoff
+- 👀 I’m interested in coding, building pc, learning new things, cycling etc.
+- 🌱 I’m currently learning Python, MySQL, Html, CSS.
+- 💞️ I’m looking to collaborate on Github & Youtube.
+- 📫 How to reach me https://jagathsajjanoff.github.io.
